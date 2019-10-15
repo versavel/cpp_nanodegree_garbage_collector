@@ -1,4 +1,11 @@
 # CppND-Garbage-Collector
+
+This repo contains my code for the Garbage Collector Project in the Object Oriented Programming Course of the Udacity C++ Nanodegree Program, Part 4: Memory Management.
+
+Starter code (1st commit), as well as all the content below, was provided by Udacity.
+
+----------
+
 The final project for this Memory Management course is to implement your own
 version of a smart pointer. You can think of this as implementing your own
 garbage collector, to use a concept from other programming languages. Building
